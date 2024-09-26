@@ -1,0 +1,49 @@
+body {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    line-height: 1.25;
+    background-color: #fc9075;
+}
+
+h1 {
+    font-size: 3em;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: 300;
+}
+
+h3 {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    font-weight: 100;
+}
+
+.callout {
+    background-color: #c93900;
+    padding: 1em;
+    font-size: .8em;
+    line-height: 1.5;
+    color: #ffffff;
+}
+
+section {
+    margin: 1em 0;
+}
+
+main {
+    width: 75%;
+}
+
+img {
+    width: 100%;
+}
+
+a {
+    color: #803513;
+}
