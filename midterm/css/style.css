@@ -1,0 +1,45 @@
+body {
+    font-family: 'Figtree', sans-serif;
+    font-size: 14px;
+    color: #11151C;
+    background-color: #f4f4f4;
+}
+
+h1, h3 {
+    font-family: 'Prompt', sans-serif;
+}
+
+header {
+    background-color: #11151C;
+    color: #FEFEFE;
+}
+
+a {
+    color: #B82B26;
+}
+
+.container {
+    width: 45%;
+}
+
+header img,
+.chart img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* Specific Styles */
+.album-analysis h3 {
+    color: #11151C;
+}
+
+.chart {
+    background-color: #11151C;
+    font-size: 0.8em;
+    color: #FEFEFE;
+}
+
+p {
+    color: #555;
+}
