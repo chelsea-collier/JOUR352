@@ -22,11 +22,11 @@ a {
     width: 45%;
 }
 
-col-md-2 {
+.col-md-2 {
     margin-left: 20px;
 }
 
-col-md-7 img {
+.col-md-7 img {
     margin-right: auto;
     max-width: 100%; 
     height: auto;
